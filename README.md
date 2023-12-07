@@ -1,1 +1,12 @@
-# HelpfulTools
+# HelpfulTools ?
+- DTMF Decoder : https://unframework.github.io/dtmf-detect/
+- T9 Decipher :  https://www.dcode.fr/t9-cipher
+- Cyber Chef 🧑‍🍳 : https://gchq.github.io/CyberChef/
+- CAN Codes Decode ?? https://www.youtube.com/watch?v=270c1bkf2Ck
+- Cyber Sec Courses : https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA
+- Cool Ressource to learn : https://book.hacktricks.xyz/welcome/readme
+- Cool French guy : https://johackim.com/start
+- OSCP PREP : https://github.com/saisathvik1/OSCP-Cheatsheet
+- Some Cheat Sheet : https://github.com/Adamkadaban/CTFs
+- EZ STEG : https://www.aperisolve.com/
+- RSAAAAAAA : https://github.com/RsaCtfTool/RsaCtfTool
